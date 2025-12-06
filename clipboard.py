@@ -83,3 +83,4 @@ class ClipboardActions:
             self.model.index(0, 0),
             self.model.index(self.model.rowCount() - 1, max(0, self.model.columnCount() - 1))
         )
+
